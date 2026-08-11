@@ -6,6 +6,18 @@ Flutter • Clean Architecture • Offline-First • Isar • BLoC
 
 ---
 
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="Screenshot_٢٢٠٢٢٥_٢٠٢٦٠٨١١_com_example_khazna_MainActivity.jpg" width="180" />
+  <img src="Screenshot_٢٢٠٢٣٠_٢٠٢٦٠٨١١_com_example_khazna_MainActivity.jpg" width="180" />
+  <img src="Screenshot_٢٢٠٢٣٥_٢٠٢٦٠٨١١_com_example_khazna_MainActivity.jpg" width="180" />
+  <img src="Screenshot_٢٢٠٢٤٠_٢٠٢٦٠٨١١_com_example_khazna_MainActivity.jpg" width="180" />
+  <img src="Screenshot_٢٢٠٢٤٦_٢٠٢٦٠٨١١_com_example_khazna_MainActivity.jpg" width="180" />
+</p>
+
+---
+
 Project Overview
 Khazna (Arabic for "treasury / vault") is a complete personal finance mobile application that allows users to:
 Record income and expense transactions with optional product images
