@@ -8,13 +8,11 @@ Flutter • Clean Architecture • Offline-First • Isar • BLoC
 
 ## 📱 App Screenshots
 
-<p align="center">
-  <img src="screen1.jpg" width="180" />
-  <img src="screen2.jpg" width="180" />
-  <img src="screen3.jpg" width="180" />
-  <img src="screen4.jpg" width="180" />
-  <img src="screen5.jpg" width="180" />
-</p>
+![Screen 1](screen1.jpg)
+![Screen 2](screen2.jpg)
+![Screen 3](screen3.jpg)
+![Screen 4](screen4.jpg)
+![Screen 5](screen5.jpg)
 
 ---
 
