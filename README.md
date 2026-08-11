@@ -9,11 +9,11 @@ Flutter • Clean Architecture • Offline-First • Isar • BLoC
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="Screenshot_٢٢٠٢٢٥_٢٠٢٦٠٨١١_com_example_khazna_MainActivity.jpg" width="180" />
-  <img src="Screenshot_٢٢٠٢٣٠_٢٠٢٦٠٨١١_com_example_khazna_MainActivity.jpg" width="180" />
-  <img src="Screenshot_٢٢٠٢٣٥_٢٠٢٦٠٨١١_com_example_khazna_MainActivity.jpg" width="180" />
-  <img src="Screenshot_٢٢٠٢٤٠_٢٠٢٦٠٨١١_com_example_khazna_MainActivity.jpg" width="180" />
-  <img src="Screenshot_٢٢٠٢٤٦_٢٠٢٦٠٨١١_com_example_khazna_MainActivity.jpg" width="180" />
+  <img src="screen1.jpg" width="180" />
+  <img src="screen2.jpg" width="180" />
+  <img src="screen3.jpg" width="180" />
+  <img src="screen4.jpg" width="180" />
+  <img src="screen5.jpg" width="180" />
 </p>
 
 ---
